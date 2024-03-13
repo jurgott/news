@@ -1,0 +1,3 @@
+The 21 issues of the Linkage Newsletter, published in a 10-year period between 1987 and 1998, are shown here as a single pdf file. They are made available as they might be of historical interest. They document the transition from single-point to multi-point linkage analysis, or the transition from LIPED to the LINKAGE programs, or from BITNET to the internet, or from 5¼" floppy disks to USB sticks, or... . Some of these documents were scanned from original paper copies and some were converted from WordPerfect files. If you cannot read this pdf file please get a new copy of Adobe Reader.
+Jurg Ott, ott@rockefeller.edu
+
